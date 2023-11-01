@@ -1,3 +1,4 @@
+#Elan Loewinger
 #Thomas Zhao
 def encode(password):
   split = list(password)
